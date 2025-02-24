@@ -11,9 +11,8 @@ Capture The Flag (CTF) competitions are cybersecurity challenges designed to tes
 - Reverse Engineering
 - Privilege Escalation
 
-<img width="1339" alt="badges" src="https://github.com/user-attachments/assets/622a6e7a-034f-4388-9096-174a744c74d4" />
-
 ## My TryHackMe CTFs (Updated on 25/02/2025)
+<img width="1339" alt="badges" src="https://github.com/user-attachments/assets/622a6e7a-034f-4388-9096-174a744c74d4" />
 Here are the CTFs I have successfully completed:
 - **Advent of Cyber** - A seasonal cybersecurity challenge event.
 - **Year of the Rabbit** - A CTF focused on web application security.
