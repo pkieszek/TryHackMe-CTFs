@@ -11,7 +11,9 @@ Capture The Flag (CTF) competitions are cybersecurity challenges designed to tes
 - Reverse Engineering
 - Privilege Escalation
 
-## My TryHackMe CTFs (Updated on 25/02/2025)<img width="1339" alt="badges" src="https://github.com/user-attachments/assets/622a6e7a-034f-4388-9096-174a744c74d4" />
+## My TryHackMe CTFs (Updated on 25/02/2025)
+![TryHackMe Badges](assets/badges.png)
+
 Here are the CTFs I have successfully completed:
 - **Advent of Cyber** - A seasonal cybersecurity challenge event.
 - **Year of the Rabbit** - A CTF focused on web application security.
@@ -26,6 +28,7 @@ Here are the CTFs I have successfully completed:
 - **Webbed** - Understanding how the World Wide Web works.
 - **World Wide Web** - Completing the 'How The Web Works' module.
 - **Cyber Ready** - Understanding the impact of training on teams.
+- **Metasploitable** - Contains the knowledge to use Metasploit.
 
 ## GitHub Pages
 This repository is hosted using **GitHub Pages** to provide a visually accessible version of my CTF achievements. You can view the **live page** here:
@@ -41,4 +44,3 @@ Interested in collaborating or discussing cybersecurity? Connect with me:
 
 ---
 This repository is continuously updated as I complete more CTF challenges on TryHackMe. 🚀
-
